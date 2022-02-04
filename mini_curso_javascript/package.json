@@ -1,0 +1,15 @@
+{
+  "name": "projeto_de_aulas",
+  "version": "1.0.0",
+  "description": "projeto para minicurso de js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alan Miranda",
+  "license": "MIT license",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
